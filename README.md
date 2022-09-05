@@ -130,7 +130,7 @@ Opret en instans af KlasseRum
 
 KlasseNavn: 3B
 
-SemesterStart: 4-9-2018 
+SemesterStart: 1-9-2022 
 
 Tilføj dig selv og dem du sidder ved siden af i listen over studerende
 
