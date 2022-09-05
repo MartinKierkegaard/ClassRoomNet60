@@ -23,7 +23,7 @@ Remember to commit and push to the Git repo (GitHub). :octocat:
 Add a new class of "ClassRoom", with the following properties. 
 
 * string Class Name
-* List<Student> Class list
+* List\<Student> StudentList
 * Datetime Semester Start
 
 Create a default constructor.
